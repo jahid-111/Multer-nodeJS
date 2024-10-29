@@ -1,0 +1,16 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "how to implement File Uploads using Multer in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Jahid",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
